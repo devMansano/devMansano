@@ -2,7 +2,7 @@
 
 - 🔭 Estou procurando emprego no momento...
 - 🌱 Estou Aprendendo JavaScript e PHP
-<p> <img align="right" src="https://github.com/devMansano/m4nso/blob/main/code.gif" width="400" height "300" /></p>
+<p> <img align="right-up" src="https://github.com/devMansano/m4nso/blob/main/code.gif" width="400" height "300" /></p>
 
 <div style="display: inline_block"><br/>
  ## SO já utilizados
