@@ -19,9 +19,8 @@
  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
 
- 
-  </div>
-  
-  <div> </div>
+ <p> <img align="right" src="https://github.com/Mit382/Mit382/blob/main/tenor.gif" width="500" height "320" /></p>
+
+</div>
   
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devMansano&show_icons=true&theme=dark)
