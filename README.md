@@ -5,7 +5,7 @@
 
 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devMansano&show_icons=true&theme=dark)
+
 
 <div style="display: inline_block"><br/>
  ## SO já utilizados
@@ -26,4 +26,4 @@
  
   </div>
   
-
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devMansano&show_icons=true&theme=dark)
