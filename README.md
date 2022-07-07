@@ -2,7 +2,7 @@
 
 - 🔭 Estou procurando emprego no momento...
 - 🌱 Estou Aprendendo JavaScript e PHP
-
+<p> <img align="right" src="https://github.com/devMansano/m4nso/blob/main/code.gif" width="500" height "320" /></p>
 
 <div style="display: inline_block"><br/>
  ## SO já utilizados
@@ -19,7 +19,7 @@
  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
 
- <p> <img align="upper" src="https://github.com/devMansano/m4nso/blob/main/code.gif" width="500" height "320" /></p>
+ 
 
 </div>
   
