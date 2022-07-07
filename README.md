@@ -21,5 +21,7 @@
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
 </div>
   <p> <img align="right" src="https://github.com/devMansano/m4nso/blob/main/code.gif" width="400" height "300" /></p>
+  
+  
   ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devMansano&show_icons=true&theme=dark)
 
