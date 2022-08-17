@@ -2,7 +2,7 @@
 
 - 🔭 I'm looking for a job at the moment...
 - 🌱 I'm Learning Front-end and Back-end
-
+- i love programming and learning of new possibilities <3
 
  
 <div style="display: inline_block"><br/>
