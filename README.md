@@ -1,7 +1,7 @@
 ##Hi 👋 I'm Matheus Mansano
 
-- 🔭 Estou procurando emprego no momento...
-- 🌱 Estou Aprendendo JavaScript e PHP
+- 🔭 I'm looking for a job at the moment...
+- 🌱 I'm Learning Front-end and Back-end
 
 
  
