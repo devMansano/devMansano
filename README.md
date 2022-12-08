@@ -22,8 +22,6 @@
 </div>
   <p> <img align="right" src="https://github.com/devMansano/m4nso/blob/main/code.gif" width="500" height "500" /></p>
   
-  
-  ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devMansano&show_icons=true&theme=dark)
 
 
  
